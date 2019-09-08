@@ -1,3 +1,7 @@
+BRE:IN - A Backend for Reasoning about Interaction Networks with Temporal Logic
+
+Judah Goldfeder and Hillel Kugler
+
 How to build and run NAE (BRE:IN):
 
 Dependencies:
